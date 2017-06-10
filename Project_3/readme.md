@@ -1,4 +1,4 @@
-before running this application make sure that the 'flask', 'sqlalchemy' and 'oauth2' modules are installed on your machine.
+Before running the application make sure that the 'requests', 'flask', 'sqlalchemy' and 'oauth2' modules are installed and updated on your machine.
 
 To run this application, change directory in to 'catalog', and run python project.py.
 
